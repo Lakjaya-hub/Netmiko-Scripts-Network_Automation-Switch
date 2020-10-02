@@ -44,8 +44,8 @@ body{
 .footer-social-icons ul li{
 	display: inline-block;
 	margin-right: 2px;
-	width: 36px;
-	height: 36px;
+	width: 35px;
+	height: 35px;
 	text-align: center;
 }
 
@@ -57,23 +57,23 @@ body{
 }
 
 .footer-social-icons ul li a i{
-	line-height: 36px;
+	line-height: 35px;
 }
 
 .footer-social-icons ul li:nth-child(1){
-	background: #3b5998;
+	background: #3b5978;
 }
 
 .footer-social-icons ul li:nth-child(2){
-	background: #c32aa3;
+	background: #c35aa3;
 }
 
 .footer-social-icons ul li:nth-child(3){
-	background: #1da1f2;
+	background: #1da1f9;
 }
 
 .footer-social-icons ul li:nth-child(4){
-	background: #007bb5;
+	background: #017bb5;
 }
 
 .footer-mid-part{
